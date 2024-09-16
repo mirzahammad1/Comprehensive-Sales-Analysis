@@ -1,0 +1,151 @@
+SiteID,SiteName,Division,SiteType,Postcode,Region,RegionManager
+1,"Johnson, Johnson and Riley",Mexican,Eat In Only,DD1,Scotland,Manager D
+2,Carter Ltd,English,Eat In Only,TR1,South West,Manager B
+3,"Warner, Franklin and Phillips",Japanese,Delivery Only,CF1,Wales,Manager H
+4,Burton-Finley,Mexican,Mixed,LS1,Yorkshire and the Humber,Manager H
+5,"Costa, Best and Ferrell",English,Delivery Only,BT1,Northern Ireland,Manager G
+6,"Tran, Willis and Rivera",English,Mixed,IV1,Scotland,Manager D
+7,Pearson-Beasley,Japanese,Delivery Only,KW1,Scotland,Manager B
+8,"Barber, Rodriguez and Logan",English,Mixed,L1,North West,Manager C
+9,Austin and Sons,Japanese,Eat In Only,LS1,Yorkshire and the Humber,Manager A
+10,"Giles, King and Peterson",Indian,Eat In Only,CF1,Wales,Manager F
+11,Ellison Group,Japanese,Eat In Only,BS1,South West,Manager B
+12,Walker-Hughes,Indian,Eat In Only,SW1A,London,Manager F
+13,Simpson-Freeman,Japanese,Eat In Only,W1A,London,Manager A
+14,Walker PLC,Japanese,Eat In Only,SW1A,London,Manager J
+15,Scott-Medina,Indian,Delivery Only,LS1,Yorkshire and the Humber,Manager D
+16,Cowan-Brown,Indian,Eat In Only,W1A,London,Manager C
+17,Harris-Phillips,Japanese,Eat In Only,PA1,Scotland,Manager J
+18,"Becker, Harris and Perez",English,Eat In Only,W1A,London,Manager E
+19,Rodriguez Group,Indian,Eat In Only,AB1,Scotland,Manager A
+20,Juarez Group,Japanese,Eat In Only,BT1,Northern Ireland,Manager A
+21,Rodriguez-Atkins,English,Eat In Only,L1,North West,Manager H
+22,Munoz PLC,English,Eat In Only,SW1A,London,Manager C
+23,"Adams, Patterson and Watson",Japanese,Eat In Only,KA1,Scotland,Manager G
+24,"Cole, Martin and Sullivan",English,Eat In Only,G1,Scotland,Manager H
+25,Escobar-Benjamin,Japanese,Eat In Only,BT1,Northern Ireland,Manager G
+26,"Campbell, Booker and Jones",English,Mixed,G1,Scotland,Manager F
+27,Smith-Allen,Mexican,Eat In Only,N1,London,Manager E
+28,"Conrad, Payne and Ramos",English,Mixed,L1,North West,Manager F
+29,Gonzales-Clark,Japanese,Eat In Only,M1,North West,Manager I
+30,Rodriguez Inc,Japanese,Eat In Only,BT1,Northern Ireland,Manager I
+31,Evans LLC,English,Eat In Only,L1,North West,Manager A
+32,Combs and Sons,Indian,Eat In Only,EH1,Scotland,Manager D
+33,Li Group,Mexican,Mixed,B1,West Midlands,Manager H
+34,"Smith, Diaz and Taylor",Japanese,Mixed,DD1,Scotland,Manager A
+35,"Gray, Ewing and Chandler",Japanese,Eat In Only,KA1,Scotland,Manager A
+36,Black-Bartlett,Mexican,Mixed,N1,London,Manager C
+37,Ortiz-Peters,Mexican,Mixed,B1,West Midlands,Manager H
+38,"Wright, Lowe and Woods",English,Eat In Only,L1,North West,Manager G
+39,"Villanueva, Bennett and Freeman",Japanese,Eat In Only,E1,London,Manager B
+40,Gordon-Robinson,Indian,Eat In Only,N1,London,Manager G
+41,"Walker, Molina and Harper",English,Mixed,BT1,Northern Ireland,Manager I
+42,"Hurst, Dunlap and Hill",Indian,Delivery Only,BS1,South West,Manager J
+43,"Mitchell, Mcneil and Allen",Japanese,Mixed,BS1,South West,Manager G
+44,Martinez-Jenkins,Mexican,Eat In Only,BS1,South West,Manager A
+45,Kelly Ltd,Mexican,Mixed,E1,London,Manager E
+46,Nelson-Kelly,Mexican,Mixed,L1,North West,Manager J
+47,Sanchez-Roy,Japanese,Mixed,CF1,Wales,Manager E
+48,"Serrano, Shah and Woods",Indian,Mixed,B1,West Midlands,Manager D
+49,Boyer-Braun,Mexican,Eat In Only,N1,London,Manager B
+50,"Acevedo, Guzman and Thompson",Indian,Mixed,BT1,Northern Ireland,Manager H
+51,"Black, Lewis and Mcintyre",Japanese,Eat In Only,W1A,London,Manager D
+52,"Mcmahon, Wells and Guerrero",Mexican,Mixed,BT1,Northern Ireland,Manager H
+53,Thornton-Johnson,Japanese,Eat In Only,ZE1,Scotland,Manager G
+54,"Zavala, Pratt and Terrell",Mexican,Eat In Only,LS1,Yorkshire and the Humber,Manager F
+55,"Novak, Reed and Allison",Japanese,Eat In Only,LS1,Yorkshire and the Humber,Manager I
+56,Collins-Hardin,Indian,Mixed,PA1,Scotland,Manager J
+57,Cooper Ltd,Mexican,Mixed,L1,North West,Manager G
+58,"Baker, Romero and Martinez",Japanese,Eat In Only,PH1,Scotland,Manager I
+59,Chavez and Sons,Japanese,Eat In Only,N1,London,Manager E
+60,Mason Ltd,English,Mixed,KA1,Scotland,Manager G
+61,"Adams, Castillo and Jackson",Mexican,Eat In Only,BS1,South West,Manager G
+62,Andersen-Gordon,English,Eat In Only,CF1,Wales,Manager J
+63,"Webb, Smith and Watson",English,Mixed,BS1,South West,Manager E
+64,Ingram and Sons,Indian,Eat In Only,LS1,Yorkshire and the Humber,Manager H
+65,Spencer LLC,Indian,Eat In Only,PH1,Scotland,Manager J
+66,Bailey-Brewer,Japanese,Mixed,M1,North West,Manager F
+67,"Watts, Taylor and Novak",Mexican,Mixed,LS1,Yorkshire and the Humber,Manager H
+68,Roberts and Sons,English,Eat In Only,N1,London,Manager E
+69,"Martin, Jackson and Smith",Indian,Eat In Only,IV1,Scotland,Manager I
+70,Gonzales-Harris,English,Eat In Only,IV1,Scotland,Manager E
+71,Castro-Ford,Indian,Eat In Only,E1,London,Manager I
+72,Huang Ltd,Japanese,Eat In Only,E1,London,Manager F
+73,Branch and Sons,Mexican,Eat In Only,BS1,South West,Manager I
+74,Ferguson Ltd,Indian,Eat In Only,E1,London,Manager D
+75,"Bryant, Smith and Glass",English,Mixed,E1,London,Manager F
+76,Jones Inc,Indian,Eat In Only,M1,North West,Manager C
+77,Sanchez-Turner,English,Mixed,EH1,Scotland,Manager B
+78,Weaver PLC,Japanese,Eat In Only,L1,North West,Manager J
+79,Hernandez-Booth,Indian,Eat In Only,BS1,South West,Manager A
+80,"Bartlett, Mclaughlin and Cook",Japanese,Eat In Only,EH1,Scotland,Manager J
+81,"Lowery, Brown and Hall",English,Eat In Only,B1,West Midlands,Manager H
+82,Horton-Hunt,English,Eat In Only,N1,London,Manager A
+83,"Lawson, Logan and Sanchez",Japanese,Delivery Only,M1,North West,Manager F
+84,"David, Graham and Patel",Indian,Eat In Only,N1,London,Manager C
+85,"Edwards, Simmons and Johnson",Indian,Eat In Only,DD1,Scotland,Manager A
+86,Kennedy Inc,English,Eat In Only,B1,West Midlands,Manager D
+87,Massey-Wells,English,Eat In Only,B1,West Midlands,Manager J
+88,King-Rose,Indian,Eat In Only,LS1,Yorkshire and the Humber,Manager A
+89,Scott LLC,Mexican,Mixed,E1,London,Manager B
+90,Daniels-Wells,Japanese,Mixed,BS1,South West,Manager G
+91,"Green, Roberts and Middleton",Mexican,Eat In Only,LS1,Yorkshire and the Humber,Manager I
+92,Ferguson Ltd,Mexican,Eat In Only,BT1,Northern Ireland,Manager G
+93,Perez-Schaefer,Mexican,Eat In Only,B1,West Midlands,Manager B
+94,Alvarez and Sons,English,Eat In Only,SW1A,London,Manager J
+95,"Short, Johnson and Jones",English,Mixed,B1,West Midlands,Manager C
+96,Medina-Krause,Japanese,Eat In Only,B1,West Midlands,Manager D
+97,"Gregory, Anderson and Brown",Mexican,Eat In Only,KA1,Scotland,Manager G
+98,Marquez and Sons,Japanese,Eat In Only,M1,North West,Manager D
+99,Brooks LLC,English,Eat In Only,EH1,Scotland,Manager J
+100,Maldonado-Rodriguez,Mexican,Eat In Only,KW1,Scotland,Manager F
+101,Warner Inc,English,Eat In Only,W1A,London,Manager D
+102,Gomez and Sons,English,Mixed,N1,London,Manager B
+103,"George, Michael and Roberts",English,Eat In Only,L1,North West,Manager B
+104,Cunningham PLC,Japanese,Mixed,N1,London,Manager H
+105,"Aguirre, Villarreal and Sutton",Japanese,Eat In Only,BT1,Northern Ireland,Manager H
+106,Sanchez-Walsh,Indian,Eat In Only,IV1,Scotland,Manager F
+107,"Johnston, Reyes and Rose",English,Mixed,BT1,Northern Ireland,Manager A
+108,"Meyer, Campbell and Lucero",Japanese,Mixed,PH1,Scotland,Manager D
+109,Salas-Moore,Mexican,Eat In Only,BS1,South West,Manager E
+110,"Brown, Clark and Williams",Indian,Mixed,W1A,London,Manager G
+111,Barnett Group,Indian,Eat In Only,LS1,Yorkshire and the Humber,Manager B
+112,"Moon, Evans and Caldwell",Indian,Mixed,LS1,Yorkshire and the Humber,Manager E
+113,"Nelson, Baker and Patterson",Mexican,Eat In Only,M1,North West,Manager J
+114,"Franco, Fernandez and Mcneil",Mexican,Mixed,IV1,Scotland,Manager H
+115,Ibarra-Johnson,Mexican,Mixed,G1,Scotland,Manager C
+116,Richardson Ltd,Mexican,Eat In Only,EH1,Scotland,Manager F
+117,Howard-Austin,English,Mixed,PH1,Scotland,Manager J
+118,Mccarthy Inc,Indian,Mixed,HS1,Scotland,Manager H
+119,Torres-Bush,Japanese,Eat In Only,L1,North West,Manager A
+120,"Jones, Castro and Adams",Indian,Eat In Only,SW1A,London,Manager A
+121,Cain LLC,Indian,Eat In Only,G1,Scotland,Manager H
+122,Barnett Ltd,Mexican,Eat In Only,W1A,London,Manager B
+123,"Perry, Jensen and Richard",Indian,Mixed,L1,North West,Manager C
+124,Morales-Walker,English,Eat In Only,B1,West Midlands,Manager C
+125,Little-Jimenez,English,Eat In Only,G1,Scotland,Manager E
+126,"Knight, Navarro and Parker",English,Mixed,L1,North West,Manager H
+127,Guzman Group,English,Mixed,BS1,South West,Manager F
+128,"Martinez, Walsh and Guzman",English,Eat In Only,AB1,Scotland,Manager C
+129,Padilla-Smith,Mexican,Eat In Only,B1,West Midlands,Manager J
+130,Walters-Obrien,Indian,Eat In Only,CF1,Wales,Manager E
+131,Woodward-Cannon,Indian,Mixed,KA1,Scotland,Manager D
+132,Graham PLC,Japanese,Eat In Only,KA1,Scotland,Manager A
+133,Jones-Olson,Mexican,Eat In Only,B1,West Midlands,Manager D
+134,Lewis LLC,English,Eat In Only,BS1,South West,Manager D
+135,Strickland-Taylor,Mexican,Delivery Only,BT1,Northern Ireland,Manager A
+136,"Harper, Hobbs and Pruitt",Japanese,Eat In Only,CF1,Wales,Manager G
+137,"Morgan, Lewis and Williams",English,Mixed,SW1A,London,Manager D
+138,Gutierrez Inc,Mexican,Eat In Only,LS1,Yorkshire and the Humber,Manager C
+139,Franklin-Burke,Indian,Mixed,HS1,Scotland,Manager I
+140,"Roberson, Walls and Lynn",Japanese,Mixed,EH1,Scotland,Manager C
+141,"Sullivan, Barrett and Macdonald",Indian,Delivery Only,LS1,Yorkshire and the Humber,Manager J
+142,Hernandez-Spence,English,Eat In Only,L1,North West,Manager G
+143,Stevens Ltd,Japanese,Eat In Only,W1A,London,Manager J
+144,Garcia Inc,English,Mixed,EH1,Scotland,Manager A
+145,Stephens Inc,Indian,Eat In Only,CF1,Wales,Manager B
+146,"Green, Rogers and Ballard",English,Mixed,EH1,Scotland,Manager F
+147,"Bryant, Martin and Armstrong",Japanese,Mixed,EH1,Scotland,Manager F
+148,Espinoza-Collins,Japanese,Mixed,PH1,Scotland,Manager H
+149,Smith-Castro,Japanese,Eat In Only,ZE1,Scotland,Manager I
+150,Lin and Sons,Mexican,Mixed,N1,London,Manager F
